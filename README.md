@@ -12,4 +12,4 @@
 * http://www.ecitizen.tv/2014/01/clearbutton-personal-data-notice.html 
 
 ## Prior VRM/ConsentReceipt Project: 
-* https://groups.google.com/forum/#!topic/opennotice 
+* https://groups.google.com/forum/#!forum/opennotice
