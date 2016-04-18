@@ -6,6 +6,8 @@
 * Landing Page: https://law.MIT.edu/OpenNotice 
 * GitHub Research:: https://github.com/HumanDynamics/law.MIT.edu/blob/master/OpenNotice 
 * GitHub Project: https://github.com/OpenNotice/ConceptualArchitecture 
+* GitHub Wiki: COMING SOON
+
 
 ## Prior ClearButton Project
 * https://github.com/LegalPhysics/ClearButton and https://github.com/LegalPhysics/ClearButton/tree/gh-pages 
@@ -13,3 +15,4 @@
 
 ## Prior VRM/ConsentReceipt Project: 
 * https://groups.google.com/forum/#!forum/opennotice
+
